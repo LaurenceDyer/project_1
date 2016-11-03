@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 NEW
 Newer
+=======
+Newer still
+>>>>>>> 3eb8f02da6f027d795a19d41e2534c915676c7ec
